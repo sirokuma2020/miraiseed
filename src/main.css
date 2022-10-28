@@ -1,0 +1,32 @@
+.sita {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: white;
+    padding-top: 9px;
+    border-top: solid 1px gray;
+  }
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  .contents {
+    padding-bottom: 70px;
+  }
+  
+  .error {
+    display: none;
+  }
+  
+  .errorhyoji {
+    display: block;
+    color: red;
+    font-size: 0.9em;
+  }
+  .kaitouran {
+  }
+  
